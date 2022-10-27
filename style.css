@@ -1,0 +1,237 @@
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.Container{
+    height: auto;
+    width: 100%;
+}
+
+.first{
+    width: 100%;
+    height: 825px;
+    background-image: url(images/LosAngeles\ 1.jpg);
+    background-size: cover;
+}
+
+.firstLogo, .secondLogo{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    float: left;
+    margin-top: 25px;
+    margin-left: 5%;
+}
+
+.upNav{
+    position: relative;
+    margin-top: 35px;
+    float: right;
+    margin-right: 10%;
+    margin-left: 10%;
+    color: white;
+    font-family: Lato, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.second{
+    height: 70px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.secondLogo{
+    margin-top: 0%;
+
+}
+
+.los, .mount{
+    position: relative;
+    margin: 0%;
+    font-family: Bebas Neue, serif;
+    margin-left: 10px;
+}
+
+.los{
+    margin-top: 15px;
+    color: #4d4d4d;
+}
+
+.mount{
+    margin-top: -5px;
+    color: #414f6b;
+}
+
+.downNav{
+    position: relative;
+    margin-top: -18px;
+    float: right;
+    margin-right: 10%;
+    margin-left: 10%;
+    color: #414f6b;
+    font-family: Lato, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.third{
+    width: 100%;
+    height: 905px;
+    background-image: url(images/mountain2.jpg);
+    background-size: cover;
+}
+
+.Hist{
+    margin: auto;
+    /* border: 2px solid black; */
+    max-width: 80%;
+    align-items: center;
+}
+
+.number{    
+    /* border: 2px solid black; */
+    font-family: Oswald, serif;font-weight: bold;
+    color: #414f6b80;
+    font-size: 20vh;
+    position: relative;
+    /* margin-left: 20%; */
+}
+
+.history2{
+    /* border: 2px solid black; */
+    font-family: Oswald, serif;font-weight: bold;
+    color: #414f6b;
+    font-size: 5vh;
+    font-weight: bold;
+    position: absolute;
+    margin: 0%;
+    margin-left: -22px;
+    margin-top: 90px;
+}
+
+.para{
+    font-family: Lato, serif;
+    margin-left: 5%;
+    max-width: 800px;
+    text-align: justify;
+}
+
+.caro{
+    width: 20%;
+    min-width: 200px;
+    height: 18%;
+    position: relative;
+    float: none;
+    margin: auto;
+    margin-top: 475px;
+}
+
+.para2{
+    font-family: Lato, serif;
+    font-size: 2vh;
+    text-align: justify;
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 230px;
+    max-width: 800px;
+}
+
+.fifth{
+    width: auto;
+    /* height: 25px; */
+    margin: auto;
+}
+
+.nav-tabs{
+    font-family: Bebas Neue, serif;
+    font: bold;
+    background-color: #414f6b;
+}
+
+.nav-link{
+    margin-left: 50%;
+    width: 150px;
+    font-size: xx-large;
+    text-align: center;
+    color: #414f6b;
+    background-color: rgba(255, 255, 255, 0.5);
+    /* padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px; */
+}
+
+.tabsfb{
+    font-size: x-large;
+    color: #414f6b;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.tab1Content{
+    background-image: url(images/tab1back.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 546px;
+}
+
+.tab2Content{
+    background-image: url(images/tab2back.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 546px;
+}
+
+.box{
+    /* border: 2px solid black; */
+    position: relative;
+    margin-top: -10px;
+    margin-left: 10%;
+    width: 50vh;
+    height: auto;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.Schedule{
+    font-family: Bebas Neue, serif;
+    font-size: xx-large;
+    font-weight: bold;
+    color: #414f6b;
+    margin-left: 10%;
+}
+
+.List1Tab1, .List1Tab2{
+    font-size: smaller;
+    position: absolute;
+}
+
+.List2Tab1, .List2Tab2{
+    font-size: smaller;
+    position: relative;
+    margin-left: 120px;
+}
+
+.sixth{
+    width: auto;
+    height: 70px;
+    background-color: #414f6b;
+    vertical-align: middle;
+    padding: 4px;
+}
+
+.Last{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.Copy{
+    /* border: 2px solid black; */
+    float: right;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Bebas neue, serif;
+    position: relative;
+    margin-top: -40px;
+    margin-right: 10%;
+}
